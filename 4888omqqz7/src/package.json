@@ -1,0 +1,15 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/next/docs/src/pages/css-in-js/advanced/StringTemplates.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "jss-plugin-template": "next",
+    "jss": "next",
+    "@material-ui/styles": "next",
+    "@material-ui/core": "next"
+  }
+}
