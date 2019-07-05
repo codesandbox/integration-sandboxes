@@ -1,0 +1,14 @@
+// _variables.scss
+$btn-padding-y: 7px;
+$btn-padding-x: 10px;
+$font-size-base: 1rem;
+$btn-border-radius: 5px;
+
+// buttons.scss
+.sass-btn {
+  padding: $btn-padding-y $btn-padding-x;
+  font-size: $font-size-base;
+  border-radius: $btn-border-radius;
+  color: #fff;
+  background-color: #0069d9;
+}
