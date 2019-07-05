@@ -2,6 +2,7 @@ import { observable, computed, action, autorun } from 'mobx';
 import { observer } from 'mobx-react';
 import * as React from 'react';
 import { render } from 'react-dom';
+import './style/index.css';
 
 class ModelExample {
   @observable email = 'mattruby@gmail.com';
