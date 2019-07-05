@@ -1,0 +1,14 @@
+{
+  "name": "jsx",
+  "version": "0.0.1",
+  "description": "Introduction to CxJSX",
+  "main": "app/index.js",
+  "scripts": {},
+  "dependencies": {
+    "cx": "18.7.12",
+    "cx-react": "17.10.0",
+    "react": "16.4.1",
+    "react-dom": "16.4.1"
+  },
+  "keywords": []
+}
