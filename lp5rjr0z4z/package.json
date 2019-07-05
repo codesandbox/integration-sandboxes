@@ -1,0 +1,23 @@
+{
+  "name": "cerebral",
+  "version": "0.0.50",
+  "description": "Declarative state and side effects management.\n\nA counter example using Cerebral.\n\nwww.cerebraljs.com",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/lp5rjr0z4z",
+  "main": "index.js",
+  "dependencies": {
+    "@cerebral/react": "latest",
+    "cerebral": "latest",
+    "react": "15.5.3",
+    "react-dom": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
