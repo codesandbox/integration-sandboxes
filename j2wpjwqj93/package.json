@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "private": true,
+  "name": "Flex",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "dependencies": {
+    "react-native-web": "^0.9.6",
+    "react-dom": "^16.6.0",
+    "react-art": "^16.6.0",
+    "react": "^16.6.0",
+    "antd-mobile-rn-scripts": "latest",
+    "@ant-design/react-native": "^3.0.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
