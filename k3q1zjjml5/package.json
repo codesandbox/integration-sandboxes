@@ -1,0 +1,11 @@
+{
+  "name": "vue-slideout-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue-slideout": "latest",
+    "vue": "2.4.4"
+  }
+}
