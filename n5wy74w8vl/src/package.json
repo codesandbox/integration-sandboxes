@@ -1,0 +1,12 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/tables/EnhancedTable.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "classnames": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/core": "latest"
+  }
+}
