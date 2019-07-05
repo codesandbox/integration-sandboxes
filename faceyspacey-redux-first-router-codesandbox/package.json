@@ -1,0 +1,26 @@
+{
+  "name": "cra-test",
+  "version": "0.1.0",
+  "title": "Redux-First Router Demo",
+  "description": "make sure to checkout + star: https://github.com/faceyspacey/redux-first-router",
+  "dependencies": {
+    "history": "^4.6.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-scripts": "1.0.10",
+    "react-universal-component": "^2.5.0",
+    "redux": "^3.7.1",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-first-router": "^1.8.8",
+    "redux-first-router-link": "^1.1.1",
+    "reselect": "^3.0.1",
+    "transition-group": "^0.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
