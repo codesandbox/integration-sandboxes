@@ -1,6 +1,7 @@
 import { h, render, Component } from "preact"
 import { Router } from "preact-router"
 import { Layout, Navigation, Card, Button, Icon, TextField } from "preact-mdl"
+import "material-design-lite/material";
 import "./style/index.scss"
 import Header from "./Header"
 import Sidebar from "./Sidebar"
