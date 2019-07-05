@@ -5,6 +5,7 @@ import { Values } from "redux-form-website-template";
 import store from "./store";
 import showResults from "./showResults";
 import SimpleForm from "./SimpleForm";
+import './style/index.css';
 
 const rootEl = document.getElementById("root");
 
