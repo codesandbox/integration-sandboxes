@@ -1,0 +1,8 @@
+@import "~/@superreal/srbreakpoints/src/styles/srbreakpoints.scss";
+@include srbreakpoints-init();
+
+@include srbreakpoints-wrap-content-from(s) {
+  body {
+    background: red;
+  }
+}
