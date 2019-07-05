@@ -1,0 +1,14 @@
+{
+  "name": "xp5qy8r93q",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/xp5qy8r93q",
+  "main": "index.js",
+  "dependencies": {
+    "babel-macros": "1.2.0",
+    "preact": "8.2.5",
+    "preact-compat": "3.17.0",
+    "preval.macro": "1.0.2"
+  }
+}
