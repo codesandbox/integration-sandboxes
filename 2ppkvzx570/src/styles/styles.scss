@@ -1,0 +1,9 @@
+@import "module/module";
+
+body {
+  color: $blue;
+
+  &::before {
+    content: "See `src/styles/module/_module.scss";
+  }
+}
