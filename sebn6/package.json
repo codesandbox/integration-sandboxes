@@ -1,0 +1,21 @@
+{
+  "name": "parcel-sandbox",
+  "version": "1.0.0",
+  "description": "fidanjs jsx examples sandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open --no-cache",
+    "build": "parcel build index.html --no-cache",
+    "yalc-link": "yalc link @fidanjs/runtime & yalc link @fidanjs/jsx & yalc link @fidanjs/babel-plugin-fidan-jsx & yalc link @fidanjs/integration-react"
+  },
+  "dependencies": {
+    "@babel/core": "7.4.4",
+    "@fidanjs/babel-plugin-fidan-jsx": "latest",
+    "@fidanjs/jsx": "latest",
+    "@types/node": "12.0.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.20.1"
+  }
+}

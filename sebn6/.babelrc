@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    "@fidanjs/fidan-jsx"
+  ]
+}
