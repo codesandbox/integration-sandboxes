@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@babel/core": "7.4.4",
-    "@fidanjs/babel-plugin-fidan-jsx": "latest",
-    "@fidanjs/jsx": "latest",
+    "@fidanjs/babel-plugin-fidan-jsx": "0.0.11",
+    "@fidanjs/jsx": "0.0.12",
     "@types/node": "12.0.2"
   },
   "devDependencies": {
