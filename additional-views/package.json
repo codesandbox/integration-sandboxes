@@ -1,0 +1,10 @@
+{
+  "name": "additional-news",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/additional-news",
+  "main": "index.js",
+  "dependencies": {
+  }
+}

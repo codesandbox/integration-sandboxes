@@ -1,0 +1,10 @@
+{
+  "view": "foo",
+  "additionalViews": [
+    "console",
+    {
+      "id": "console",
+      "closable": true
+    }
+  ]
+}
