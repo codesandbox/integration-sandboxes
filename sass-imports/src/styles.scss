@@ -1,0 +1,17 @@
+@import "@carbon/colors/scss/colors";
+@import "./a";
+
+$theme-colors: (
+  "primary": $carbon--blue-50,
+  "secondary": #6c757d,
+  "success": #0ABD33,
+  "danger": #ff4136,
+  "warning": #ffc107,
+  "info": #17a2b8,
+  "light": #f8f9fa,
+  "dark": #343a40,
+  "white": #ffffff,
+  "transparent": transparent
+);
+
+@import "~bootstrap/scss/bootstrap";

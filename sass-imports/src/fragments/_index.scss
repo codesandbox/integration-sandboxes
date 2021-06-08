@@ -1,0 +1,7 @@
+@import "b.scss";
+
+$fragment_b_color_h2: red;
+
+.something {
+  color: $fragment_b_color_h2;
+}
